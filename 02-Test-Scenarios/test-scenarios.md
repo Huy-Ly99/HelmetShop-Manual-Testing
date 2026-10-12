@@ -49,51 +49,51 @@
 | ID | Scenario | Requirement ID |
 |---|---|---|
 | TS-ADM-LOGIN-01 | Kiểm tra chức năng nhập tài khoản admin | REQ-ADM-001 |
-| TS-ADM-LOGIN-02 | Kiểm tra chức năng nhập mật khẩu admin | REQ-ADM-001 |
-| TS-ADM-LOGIN-03 | Kiểm tra chức năng ẩn / hiện mật khẩu | REQ-ADM-001 |
-| TS-ADM-LOGIN-04 | Kiểm tra chức năng ghi nhớ đăng nhập nếu chức năng bật | REQ-ADM-001 |
-| TS-ADM-LOGIN-05 | Kiểm tra chức năng xác thực thông tin đăng nhập của admin | REQ-ADM-001 |
-| TS-ADM-LOGIN-06 | Kiểm tra chức năng quay về trang chủ | REQ-ADM-001 |
-| TS-ADM-DASH-001 | Kiểm tra hiển thị tổng số sản phẩm hiện có | REQ-ADM-001 |
-| TS-ADM-DASH-002 | Kiểm tra hiển thị tổng số đơn hàng | REQ-ADM-001 |
-| TS-ADM-DASH-003 | Kiểm tra hiển thị tổng số khách hàng | REQ-ADM-001 |
-| TS-ADM-DASH-004 | Kiểm tra hiển thị tổng doanh thu | REQ-ADM-001 |
-| TS-ADM-DASH-004 | Kiểm tra chức năng thêm sản phẩm | REQ-ADM-001 |
-| TS-ADM-DASH-004 | Kiểm tra hiển thị thông tin/ danh sách sản phẩm hiện có | REQ-ADM-001 |
-| TS-ADM-PM-001 | Kiểm tra chức năng xem thông tin sản phẩm | REQ-ADM-001 |
-| TS-ADM-PM-002 | Kiểm tra chức năng chỉnh sửa thông tin sản phẩm | REQ-ADM-001 |
-| TS-ADM-PM-003 | Kiểm tra chức năng thay đổi hình ảnh sản phẩm | REQ-ADM-001 |
-| TS-ADM-PM-004 | Kiểm tra chức năng thay đổi giá sản phẩm | REQ-ADM-001 |
-| TS-ADM-PM-005 | Kiểm tra chức năng thay đổi số lượng tồn kho của sản phẩm | REQ-ADM-001 |
-| TS-ADM-PM-006 | Kiểm tra chức năng xoá sản phẩm | REQ-ADM-001 |
-| TS-ADM-OM-01 | Kiểm tra hiển thị tổng số đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-02 | Kiểm tra hiển thị số đơn hàng chưa liên hệ | REQ-ADM-001 |
-| TS-ADM-OM-03 | Kiểm tra hiển thị số đơn hàng đã liên hệ | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị doanh thu | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị danh sách đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị Order ID | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị tên khách hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị số điện thoại khách hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị sản phẩm trong đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị giá trị đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng xem chi tiết đơn hàng | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị Order ID | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị tên sản phẩm | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị số lượng sản phẩm | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị giá sản phẩm | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Chưa liên hệ" sang "Đã liên hệ" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng "Đã liên hệ", chức năng "Huỷ hàng" và "Đã nhận tiền" sau khi "Đã liên hệ" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã liên hệ" sang "Huỷ hàng" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng "Huỷ hàng", chức năng xoá đơn sau khi "Huỷ hàng" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã liên hệ" sang "Đã nhận tiền" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng "Đã nhận tiền", chức năng "Trả hàng" sau khi "Đã nhận tiền" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã nhận tiền" sang "Trả hàng" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng, chức năng "Đã về kho" sau khi "Trả hàng" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Trả hàng" sang "Đã về kho" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng "Đã về kho", chức năng "Đã hoàn tiền" sau khi "Đã về kho" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Trả hàng" sang "Đã về kho" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra hiển thị trạng thái đơn hàng "Đã hoàn tiền", chức năng xoá đơn sau khi "Đã hoàn tiền" | REQ-ADM-001 |
-| TS-ADM-OM-04 | Kiểm tra chức năng xoá đơn hàng | REQ-ADM-001 |
+| TS-ADM-LOGIN-02 | Kiểm tra chức năng nhập mật khẩu admin | REQ-ADM-002 |
+| TS-ADM-LOGIN-03 | Kiểm tra chức năng ẩn / hiện mật khẩu | REQ-ADM-003 |
+| TS-ADM-LOGIN-04 | Kiểm tra chức năng ghi nhớ đăng nhập nếu chức năng bật | REQ-ADM-004 |
+| TS-ADM-LOGIN-05 | Kiểm tra chức năng xác thực thông tin đăng nhập của admin | REQ-ADM-005 |
+| TS-ADM-LOGIN-06 | Kiểm tra chức năng quay về trang chủ | REQ-ADM-006 |
+| TS-ADM-DASH-001 | Kiểm tra hiển thị tổng số sản phẩm hiện có | REQ-ADM-007 |
+| TS-ADM-DASH-002 | Kiểm tra hiển thị tổng số đơn hàng | REQ-ADM-008 |
+| TS-ADM-DASH-003 | Kiểm tra hiển thị tổng số khách hàng | REQ-ADM-009 |
+| TS-ADM-DASH-004 | Kiểm tra hiển thị tổng doanh thu | REQ-ADM-010 |
+| TS-ADM-DASH-004 | Kiểm tra chức năng thêm sản phẩm | REQ-ADM-011 |
+| TS-ADM-DASH-004 | Kiểm tra hiển thị thông tin/ danh sách sản phẩm hiện có | REQ-ADM-012 |
+| TS-ADM-PM-001 | Kiểm tra chức năng xem thông tin sản phẩm | REQ-ADM-013 |
+| TS-ADM-PM-002 | Kiểm tra chức năng chỉnh sửa thông tin sản phẩm | REQ-ADM-014 |
+| TS-ADM-PM-003 | Kiểm tra chức năng thay đổi hình ảnh sản phẩm | REQ-ADM-015 |
+| TS-ADM-PM-004 | Kiểm tra chức năng thay đổi giá sản phẩm | REQ-ADM-016 |
+| TS-ADM-PM-005 | Kiểm tra chức năng thay đổi số lượng tồn kho của sản phẩm | REQ-ADM-017 |
+| TS-ADM-PM-006 | Kiểm tra chức năng xoá sản phẩm | REQ-ADM-018 |
+| TS-ADM-OM-001 | Kiểm tra hiển thị tổng số đơn hàng | REQ-ADM-019 |
+| TS-ADM-OM-002 | Kiểm tra hiển thị số đơn hàng chưa liên hệ | REQ-ADM-020 |
+| TS-ADM-OM-003 | Kiểm tra hiển thị số đơn hàng đã liên hệ | REQ-ADM-021 |
+| TS-ADM-OM-004 | Kiểm tra hiển thị doanh thu | REQ-ADM-022 |
+| TS-ADM-OM-005 | Kiểm tra hiển thị danh sách đơn hàng | REQ-ADM-023 |
+| TS-ADM-OM-006 | Kiểm tra hiển thị Order ID | REQ-ADM-024 |
+| TS-ADM-OM-007 | Kiểm tra hiển thị tên khách hàng | REQ-ADM-025 |
+| TS-ADM-OM-008 | Kiểm tra hiển thị số điện thoại khách hàng | REQ-ADM-026 |
+| TS-ADM-OM-009 | Kiểm tra hiển thị sản phẩm trong đơn hàng | REQ-ADM-027 |
+| TS-ADM-OM-010 | Kiểm tra hiển thị giá trị đơn hàng | REQ-ADM-028 |
+| TS-ADM-OM-011 | Kiểm tra hiển thị trạng thái đơn hàng | REQ-ADM-029 |
+| TS-ADM-OM-012 | Kiểm tra chức năng xem chi tiết đơn hàng | REQ-ADM-030 |
+| TS-ADM-OD-001 | Kiểm tra hiển thị Order ID | REQ-ADM-031 |
+| TS-ADM-OD-002 | Kiểm tra hiển thị tên sản phẩm | REQ-ADM-032 |
+| TS-ADM-OD-003 | Kiểm tra hiển thị số lượng sản phẩm | REQ-ADM-033 |
+| TS-ADM-OD-004 | Kiểm tra hiển thị giá sản phẩm | REQ-ADM-034 |
+| TS-ADM-OS-001 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Chưa liên hệ" sang "Đã liên hệ" | REQ-ADM-035 |
+| TS-ADM-OS-002 | Kiểm tra hiển thị trạng thái đơn hàng "Đã liên hệ", chức năng "Huỷ hàng" và "Đã nhận tiền" sau khi "Đã liên hệ" | REQ-ADM-036 |
+| TS-ADM-OS-003 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã liên hệ" sang "Huỷ hàng" | REQ-ADM-037 |
+| TS-ADM-OS-004 | Kiểm tra hiển thị trạng thái đơn hàng "Huỷ hàng", chức năng xoá đơn sau khi "Huỷ hàng" | REQ-ADM-038 |
+| TS-ADM-OS-005 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã liên hệ" sang "Đã nhận tiền" | REQ-ADM-039 |
+| TS-ADM-OS-006 | Kiểm tra hiển thị trạng thái đơn hàng "Đã nhận tiền", chức năng "Trả hàng" sau khi "Đã nhận tiền" | REQ-ADM-040 |
+| TS-ADM-OS-007 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Đã nhận tiền" sang "Trả hàng" | REQ-ADM-041 |
+| TS-ADM-OS-008 | Kiểm tra hiển thị trạng thái đơn hàng, chức năng "Đã về kho" sau khi "Trả hàng" | REQ-ADM-042 |
+| TS-ADM-OS-009 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Trả hàng" sang "Đã về kho" | REQ-ADM-043 |
+| TS-ADM-OS-010 | Kiểm tra hiển thị trạng thái đơn hàng "Đã về kho", chức năng "Đã hoàn tiền" sau khi "Đã về kho" | REQ-ADM-044 |
+| TS-ADM-OS-011 | Kiểm tra chức năng chuyển trạng thái đơn hàng từ "Trả hàng" sang "Đã về kho" | REQ-ADM-045 |
+| TS-ADM-OS-012 | Kiểm tra hiển thị trạng thái đơn hàng "Đã hoàn tiền", chức năng xoá đơn sau khi "Đã hoàn tiền" | REQ-ADM-046 |
+| TS-ADM-OS-013 | Kiểm tra chức năng xoá đơn hàng | REQ-ADM-047 |
 
 
